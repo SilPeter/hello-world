@@ -4,5 +4,6 @@ public class eclipse_helloWorld {
 		System.out.println("wat");
 		System.out.println("up duck?");
 		System.out.println("ssh");
+		System.out.println("new lines");
 	}
 }
